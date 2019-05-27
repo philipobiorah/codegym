@@ -1,0 +1,3 @@
+Google I/O Extended is focused on bringing the local developers community together to experience the keynote and other main Google I/O sessions.
+
+This year, we will be having a one-day event for code-labs and speaker session to have a deep dive into Google latest products and innovations
